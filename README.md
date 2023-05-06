@@ -1,13 +1,3 @@
 # MINI_TILT
 
-## Description 
-
-## Install
-
-## Usage
-
-### CLI
-
-### Edit text
-
-### Features
+progress in the 'docs' foldel
