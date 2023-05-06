@@ -1,0 +1,2 @@
+[workspace]
+members = ["tilt_core", "tilt_term"]
