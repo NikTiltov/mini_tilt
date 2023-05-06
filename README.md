@@ -1,3 +1,3 @@
 # MINI_TILT
 
-progress in the 'docs' foldel
+progress in the 'docs' folder
